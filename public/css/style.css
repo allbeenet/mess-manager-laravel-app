@@ -1,0 +1,6 @@
+@import url('asteroid-v5.css');
+
+#navbar{
+    left: -300px;
+    transition: .5s;
+}
